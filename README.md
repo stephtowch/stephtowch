@@ -49,6 +49,6 @@ I am a seasoned project manager with 15 years of experience in investment bankin
 ---
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/stephtowchlayout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephtowch&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
