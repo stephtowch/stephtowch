@@ -23,4 +23,51 @@
 
 ---
 
-### :technologist: About Me :
+### :woman_technologist: About Me :
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Project Manager and Psychologist</title>
+</head>
+
+<body>
+    <h2>Hello, I'm <span>Your Name</span> 👋</h2>
+
+    <p>
+        I am a seasoned project manager with 15 years of experience in investment banking, specializing in commodities
+        markets and financial technology. My academic background includes an MSc in Psychology, an MSc in Organisational
+        Psychology, and a PhD in Psychology.
+    </p>
+
+    <h3>Open to Opportunities:</h3>
+    <ul>
+        <li>📈 Recently delved into behavioral data analytics and UX research.</li>
+        <li>💡 Interested in roles that leverage my project management expertise or explore the intersection of psychology,
+            data analytics, and user experience.</li>
+        <li>🚀 Excited about contributing to innovative projects that align with my diverse skill set.</li>
+    </ul>
+
+    <p>
+        Feel free to reach out for collaborations or discussions about potential opportunities!
+    </p>
+
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Excited Gif" width="30">
+</body>
+
+</html>
+
+
+I am a seasoned project manager with 15 years experience in investment banking in commodities markets and financial technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from London.
+- :telescope: I’m open to work opportunities that will either leverage project management experience or my newly acquired knowledge.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+---
