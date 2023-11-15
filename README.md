@@ -36,6 +36,7 @@ I am a seasoned project manager with 15 years of experience in investment bankin
   
 - :bulb: Much like finding your path up a mountain, sharing the code I've picked up along the way is my way of saying "Hey! Here's a map. Let's tackle this together!". Hopefully, it'll come in handy for someone out there. Happy coding! :nerd_face: :computer:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-stephtowch-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/stephanie-towch-4b2549206")
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-stephtowch-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-towch-4b2549206)
+
 
 ---
