@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=stephtowch&style=flat-square&color=blue" alt=""/>
   <h1>
     hey there
-    <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamkxNXpsY25tZHA2eWM4NTkzajVoNnFtY3lsZWgyeWxmbWEyZTl1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 <div align="center">
