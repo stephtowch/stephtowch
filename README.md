@@ -32,7 +32,9 @@ I am a seasoned project manager with 15 years of experience in investment bankin
   
 - :rocket: Excited about contributing to innovative projects that align with my diverse skill set.
 
-- :zap: In my free time, I love hiking and hope to climb the world's highest 7 summits on 7 continents. Much like finding your path up a mountain, sharing the code I've picked up along the way is my way of saying "Hey! Here's a map. Let's enjoy the journey together!". I'm hoping it'll come in handy for someone out there. Happy coding! :nerd: :computer: 
+- :zap: In my free time, I love hiking and hope to climb the world's highest 7 summits on 7 continents.
+  
+- :bulb: Much like finding your path up a mountain, sharing the code I've picked up along the way is my way of saying "Hey! Here's a map. Let's tackle this together!". Hopefully, it'll come in handy for someone out there. Happy coding! :nerd: :computer: 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-stephtowch-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/stephanie-towch-4b2549206)https://www.linkedin.com/in/stephanie-towch-4b2549206) 
 ---
