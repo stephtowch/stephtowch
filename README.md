@@ -34,6 +34,5 @@ I am a seasoned project manager with 15 years of experience in investment bankin
 
 - :zap: In my free time, I climb mountains and hope to climb the world's 7 summits.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](stephanie-towch-4b2549206)
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-stephtowch-blue?style=flat&logo=Linkedin&logoColor=white)](stephanie-towch-4b2549206) 
 ---
