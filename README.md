@@ -42,7 +42,7 @@ I am a seasoned project manager with 15 years of experience in investment bankin
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  ![R Logo](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg)
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 </div>
 
 ---
