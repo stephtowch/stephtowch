@@ -24,7 +24,9 @@
 ---
 
 ### :woman_technologist: About Me :👋
-I am a seasoned project manager with 15 years of experience in investment banking, specialising in commodities markets and financial technology. Currently, I am pursuing a PhD in Psychology alongside holding an MSc in Psychology and an MSc in Organisational Psychology. Based in London <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a seasoned project manager with 15 years of experience in investment banking, specialising in commodities markets and financial technology. Based in London <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- :woman_student: Currently, I am pursuing a PhD in Psychology alongside holding an MSc in Psychology and an MSc in Organisational Psychology.
 
 - :chart_with_upwards_trend: Recently delved into behavioural data analytics and UX research.
   
