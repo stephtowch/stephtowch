@@ -28,7 +28,7 @@ I am an experienced psychology researcher and seasoned project manager with 15 y
 
 - :woman_student: Currently, I am pursuing a PhD in Psychology alongside holding an MSc in Psychology, an MSc in Organisational Psychology and a BA(Hons) in Financial Services.
 
-- :chart_with_upwards_trend: Recently delved into behavioural data analytics and UX research.
+- :chart_with_upwards_trend: Recently delved into behavioural data science and UX research.
   
 - :telescope: I’m open to work opportunities that will leverage my project management expertise or explore the intersection of psychology, data analytics, and user experience.
   
