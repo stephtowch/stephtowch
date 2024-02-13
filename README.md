@@ -30,7 +30,7 @@ I am an experienced psychology researcher and seasoned project manager with 15 y
 
 - :chart_with_upwards_trend: Recently delved into behavioural data science and UX research.
   
-- :telescope: I’m open to work opportunities that will leverage my project management expertise or explore the intersection of psychology, data analytics, and user experience.
+- :telescope: I’m open to work opportunities that will leverage my project management expertise or explore the intersection of psychology, data science, and user experience.
   
 - :rocket: Excited about contributing to innovative projects that align with my diverse skill set.
 
