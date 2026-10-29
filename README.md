@@ -24,17 +24,17 @@
 ---
 
 ### :woman_technologist: About Me :
-I am an experienced psychology researcher and seasoned project manager with 15 years of experience in investment banking, specialising in commodities operations and finance technology. Based in London <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am an experienced psychology researcher and seasoned project manager with 16 years of experience in investment banking, specialising in commodities operations, finance technology and project management. Based in London <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :woman_student: Currently, I am pursuing a PhD in Psychology and an MA in Social Science for Data Science alongside holding an MSc in Psychology, an MSc in Organisational Psychology and a BA(Hons) in Financial Services.
+- :woman_student: Currently, I'm a PhD Researcher in Psychology whilst completing an MA in Social Science for Data Analysis. I hold dual MSc degrees in Psychology and Organisational Psychology, alongside a BA(Hons) in Financial Services.
 
-- :chart_with_upwards_trend: Interested in psychometrics and machine learning.
+- :chart_with_upwards_trend: Interested in behavioural addictions, health psychology, psychometrics and machine learning.
   
-- :telescope: I’m open to postdoc or researcher opportunities related to behavioural addictions or health and wellbeing in the workplace.
+- :telescope: I’m open to postdoctoral or researcher opportunities aligned with my interests.
   
 - :rocket: Excited to finish my PhD Psychology in 2027.
 
-- :zap: In my free time, I love hiking and have climbed Mount Fuji and Mount Haku (Japan) Mount Toubkal (Morrocco) Mount Fanispan (Vietnam), Mount Vihren (Bulgaria) to name a few. I hope to trek to Machu Picchu, Mont Blanc and Mount Kilimanjaro someday.
+- :zap: In my free time, I love hiking and have climbed Mount Fuji and Mount Haku (Japan), Mount Toubkal (Morrocco), Mount Fanispan (Vietnam), and Mount Vihren (Bulgaria) to name a few. I hope to trek to Machu Picchu, Mont Blanc and Mount Kilimanjaro someday.
   
 - :bulb: Much like finding the path up a mountain, sharing the code I've picked up along the way is my way of saying "Hey! Here's a map. Let's tackle this together!". Hopefully, it'll come in handy for someone out there. Happy coding! :nerd_face: :computer:
 
