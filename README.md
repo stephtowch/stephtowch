@@ -28,15 +28,15 @@ I am an experienced psychology researcher and seasoned project manager with 15 y
 
 - :woman_student: Currently, I am pursuing a PhD in Psychology and an MA in Social Science for Data Science alongside holding an MSc in Psychology, an MSc in Organisational Psychology and a BA(Hons) in Financial Services.
 
-- :chart_with_upwards_trend: Recently delved into behavioural data science and UX research.
+- :chart_with_upwards_trend: Interested in psychometrics and machine learning.
   
-- :telescope: I’m open to work opportunities that will leverage my project management expertise or explore the intersection of psychology, data science, and user experience.
+- :telescope: I’m open to postdoc or researcher opportunities related to behavioural addictions or health and wellbeing in the workplace.
   
-- :rocket: Excited about contributing to innovative projects that align with my diverse skill set.
+- :rocket: Excited to finish my PhD Psychology in 2027.
 
-- :zap: In my free time, I love hiking and hope to climb Mount Fuji, Mont Blanc and Mount Kilimanjaro.
+- :zap: In my free time, I love hiking and have climbed Mount Fuji and Mount Haku (Japan) Mount Toubkal (Morrocco) Mount Fanispan (Vietnam), Mount Vihren (Bulgaria) to name a few. I hope to trek to Machu Picchu, Mont Blanc and Mount Kilimanjaro someday.
   
-- :bulb: Much like finding your path up a mountain, sharing the code I've picked up along the way is my way of saying "Hey! Here's a map. Let's tackle this together!". Hopefully, it'll come in handy for someone out there. Happy coding! :nerd_face: :computer:
+- :bulb: Much like finding the path up a mountain, sharing the code I've picked up along the way is my way of saying "Hey! Here's a map. Let's tackle this together!". Hopefully, it'll come in handy for someone out there. Happy coding! :nerd_face: :computer:
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-stephtowch-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-towch-4b2549206)
 
